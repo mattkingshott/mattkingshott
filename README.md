@@ -1,4 +1,10 @@
-## Hi there 👋
+## Welcome 👋
+
+Hey there! I'm Matt, a web software developer and content creator. I've been messing around with code for over 20 years, ultimately landing on what I believe is the best tech stack in the world… Laravel, Livewire, Alpine & Tailwind.
+
+You can follow me on [X](https://x.com/mattkingshott) for my latest thoughts on development, as well as tips, tricks and other content. 
+
+You can find my projects and public code contributions within my company (Invertical) [GitHub account](https://github.com/InverticalLabs).
 
 <!--
 **mattkingshott/mattkingshott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
