@@ -4,8 +4,6 @@ Hey there! I'm Matt, a web software developer and content creator. I've been mes
 
 You can follow me on [X](https://x.com/mattkingshott) for my latest thoughts on development, as well as tips, tricks and other content. 
 
-You can find my projects and public code contributions within my company (Invertical) [GitHub account](https://github.com/InverticalLabs).
-
 <!--
 **mattkingshott/mattkingshott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
